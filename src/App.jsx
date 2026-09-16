@@ -378,7 +378,7 @@ function App() {
         <section className="welcome">
           <p>PERSONAL FINANCE</p>
 
-          <h2>Good afternoon, Jamie.</h2>
+          <h2>Good afternoon, Mala.</h2>
 
           <span>
             Here’s how your spending is looking this month.

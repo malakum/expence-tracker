@@ -109,3 +109,17 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+
+.delete-button {
+  background: #2a171a;
+  color: #ff7b83;
+  border: 1px solid #4a2429;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.delete-button:hover {
+  background: #421d21;
+}
